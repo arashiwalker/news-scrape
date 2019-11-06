@@ -1,0 +1,42 @@
+body {
+    background-image: url("../images/newsscapepic.jpg");
+    background-size: 100% auto;
+    background-repeat: repeat-y;
+}
+
+nav {
+    background-color: black;
+}
+ 
+a {
+    color:black;
+}
+
+a:hover {
+    cursor: pointer;
+   
+}
+
+hr {
+    color:gray;
+}
+
+.card {
+    background-color:lightgoldenrodyellow;
+}
+
+.commentLink {
+    color: green !important;
+}
+
+.secondary-content > .material-icons {
+    color:green !important;
+}
+
+.artdel{
+    position: inherit;
+    float: right;
+    color: red;
+    text-transform: uppercase;
+    cursor: pointer;
+}

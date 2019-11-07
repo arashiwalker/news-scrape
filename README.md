@@ -9,10 +9,6 @@
 
 * In this assignment, you'll create a web app that lets users view and leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your mongojs and Cheerio muscles to scrape news from another site.
 
-## _LIRI Bot Demo "click image below to play demo"_
-
-[![](http://img.youtube.com/vi/Sq3zbig3Wk0/0.jpg)](http://www.youtube.com/watch?v=Sq3zbig3Wk0 "")
-
 ## functions/features
 
 * This application is a personal https://old.reddit.com/r/webdev scraper app, that allows you to grab articles published on the front page  

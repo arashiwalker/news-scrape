@@ -26,4 +26,4 @@ _Node.js,_ _Mongo-DB,_ _Express,_ _Cheerio,_ _Body-Parser, _mongojs,_ _ajax,_ _A
 
 *MIT*
 
-Copyright (c) 2019 **_Arashi Walker_**
+Copyright (c) 2019  **_Arashi Walker_**
